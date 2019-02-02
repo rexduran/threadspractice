@@ -81,3 +81,6 @@ local.properties
 .classpath
 .DS_Store
 .project
+target/classes/META-INF/MANIFEST.MF
+target/classes/META-INF/maven/com.rexduran/threadspractice/pom.properties
+target/classes/META-INF/maven/com.rexduran/threadspractice/pom.xml
